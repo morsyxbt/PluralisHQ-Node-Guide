@@ -17,7 +17,7 @@
 
 1. Go to [Vast.ai](https://cloud.vast.ai/billing/)
 2. add balance crypto or card
-3. follow my old Vast Guide for detailed process
+3. rent a server - easy & lots of guides on CT already
 
 ---
 
